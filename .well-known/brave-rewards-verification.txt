@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mainakamau92.github.io
+Token: c7868ac36c34cea4e80731dc7e2434c0abad09cb9bea0659088aa2952b4a0e81
